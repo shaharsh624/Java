@@ -1,0 +1,12 @@
+Create 4 buttons
+
+2 nums
++
+=
+text box
+
+
+use layouts
+action listner
+override a method
+

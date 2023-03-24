@@ -1,0 +1,32 @@
+# 18/08/2022
+1. Count occurrence of each vowel in an input sentence. Make it Menu driven.
+2. Make a calculator using math class, Scan a operator and two operands. (+,-,*,/,%,^,s)
+3. Method overloading
+4. Type promotion in Method Overloading
+
+
+# 25/08/2022
+Module 1- Q11 (Call by Value, Reference, Return Value, Objects)
+Moudule 2- Q8 (This Pointer)
+
+
+
+
+
+Unit 2
+2+
+3-
+4- class point with overloaded constructor (copy constructor left)
+8+
+
+
+08/09/2022
+UNIT2: Program-3,10,13
+
+
+
+
+19/09/2022
+Create interface Stack- Push(), Pop() methods
+Implement Static Stack:
+Dynamic Stack: Arraylist Collection

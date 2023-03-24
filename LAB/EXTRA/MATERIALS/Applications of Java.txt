@@ -1,0 +1,10 @@
+Mobile Applications- Netflix, Uber
+Desktop GUI Applications- Adobe acrobat reader, antiviruses
+Web-based Applications- Amazon, Gmail, G Sheets, G Slides
+Enterprise Applications - Google, Flipkart, Wipro, Infosys, Spotify
+Scientific Applications- MATLAB
+Gaming Applications- Minecraft, Ashfalt 6
+Big Data technologies- Accumulo, ElasticSearch
+Business Applications
+Distributed Applications
+Cloud-based Applications
